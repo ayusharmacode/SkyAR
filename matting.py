@@ -236,6 +236,3 @@ class SkyDetector():
             ##########################################
             self._update_checkpoints()
 
-
-
-
